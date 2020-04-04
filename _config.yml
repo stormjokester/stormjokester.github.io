@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 permalink: /:year:month:day/:title
 url: #Your url here
 baseurl: /project
@@ -18,6 +19,15 @@ sass:
   sass_dir: _sass
 
 # Markdown
+=======
+---
+title: Minimal Text
+baseurl: "/"
+desc: A minimal blog for off-topic blog entries.
+about: test for about
+image: 
+excerpt_separator: "<!-- more -->"
+>>>>>>> 6f594e881508d0ffb1acc9b18113b8f46276c4a9
 markdown: kramdown
 kramdown:
   input: GFM
