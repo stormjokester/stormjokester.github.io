@@ -3,7 +3,7 @@ title: Minimal Text
 baseurl: "/"
 desc: A minimal blog for off-topic blog entries.
 about: test for about
-image: https://pinto-light.glitch.me/?width=500&height=500&url=https://i.imgur.com/mxUVc2x.jpg&extension=jpg
+image: <link>
 excerpt_separator: "<!-- more -->"
 markdown: kramdown
 gems:
