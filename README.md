@@ -1,28 +1,11 @@
-# Minimal Text
+# Windows 95 Theme for Jekyll
 
-Minimal Text is a clean and lightweight Jekyll Theme
+![ss](https://github.com/h01000110/windows-95/raw/gh-pages/screenshot_2.png)
 
-## Documentation
+Homepage: [Windows 95](https://h01000110.github.io/20170917/windows-95)
 
-__Baseurl__
+Demo: [Click here](https://h01000110.github.io/windows-95/)
 
-```yaml
----
-title: Minimal Text
-baseurl: "/Minimal-Text"
-```
-The site baseurl is prepended to asset links and the home button in the `post.html` layout. Please note it must start with a "/"
-By changing this you are changing the location of your website. gh.clarkhacks.com`/Minimal-Text` is the location of Minimal-Text in my case.
+Author: [h01000110 (hi)](https://github.com/h01000110)
 
-__Pagination__
-
-```yaml
-paginate: 5
-paginate_path: "/:num/"
-```
-`paginate` in `_config.yml` is the number of post blocks that will appear on a single page.
-`paginate_path` is at what location your blog pages will be displayed.
-
-__The documentation has been implemented because of user questions.__ For more documentation to be please request what you need defined.
-
-![screenshot](screenshot.jpg)
+License: [MIT](https://github.com/h01000110/windows-95/blob/master/LICENSE)
